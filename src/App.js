@@ -60,7 +60,7 @@ function App() {
             <h6 className="time">2/5/2021</h6>
             <h6 className="ml-3 content">c39 CThanh Thay Main39 CThanh Thay Main39 CThanh Thay Main</h6>
             <div className="fa fa-times-circle text-danger delete"></div>
-          </div>
+          </div> 
           <div className="note m-1 d-flex p-2 bg-white">
             <h6 className="time">2/5/2021</h6>
             <h6 className="ml-3 content">c39 CThanh Thay Main39 CThanh Thay Main39 CThanh Thay Main</h6>
